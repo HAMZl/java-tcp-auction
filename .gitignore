@@ -1,0 +1,5 @@
+# compiled Java classes
+*.class
+
+# server request log (created at runtime)
+log.txt
